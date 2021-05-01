@@ -15,9 +15,9 @@
 
 | 参数 | 参数用途 |
 | --- | --- |
-| 'user' | 你的 GitHub URL 账户名 |
-| 'source' | 你需要触发 GitHub Actions 构建的仓库 |
-| 'token' | GitHub Token 用于鉴权,否则无法触发 |
+| `user` | 你的 GitHub URL 账户名 |
+| `source` | 你需要触发 GitHub Actions 构建的仓库 |
+| `token` | GitHub Token 用于鉴权,否则无法触发 |
 
 参数类型: string
 
@@ -27,7 +27,7 @@
 
 | 参数 | 参数用途 |
 | --- | --- |
-| 'user' | 你的 GitHub URL 账户名 |
+| `user` | 你的 GitHub URL 账户名 |
 
 参数类型: string
 
@@ -37,8 +37,8 @@
 
 | 参数 | 参数用途 |
 | --- | --- |
-| 'user' | 你的 GitHub URL 账户名 |
-| 'repo' | 你的运行小康友链爬虫的仓库 |
-| 'branch' | 爬虫存储friendslist.json的分支 |
+| `user` | 你的 GitHub URL 账户名 |
+| `repo` | 你的运行小康友链爬虫的仓库 |
+| `branch` | 爬虫存储friendslist.json的分支 |
 
 
