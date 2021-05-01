@@ -23,6 +23,8 @@
 
 ## GitHub 贡献榜
 
+触发地址: <https://all.api.slqwq.cn/api/v1/calendar>
+
 参数:
 
 | 参数 | 参数用途 |
@@ -32,6 +34,8 @@
 参数类型: string
 
 ## 适用于小康友链的友链json展示
+
+触发地址: <https://all.api.slqwq.cn/api/v1/link_json>
 
 参数:
 
